@@ -80,7 +80,7 @@ Com relação à predição de falhas, considere o seguinte quadro resumo das cl
 
 Segundo o PO, o custo diário de manutenção corretiva de uma máquina, gira em torno de 5.000,00 por dia. Assim, cada parada da máquina, gera um custo de 25.000 (Em média, a máquina fica parada 5 dias para a manutenção corretiva). Enquanto, o custo da manutenção preditiva gera um custo de 2.0589,82 por dia. E um dia, é o suficiente para realizar esta manutenção. 
 
-Obs: Estamos usando a proporção descrita no trabalho Kardec, A., Nascif, J., 2009. Manutenção-função estratégica. Qualitymark Editora Ltda, Tabela 1 (Tab1 [https://www.researchgate.net/profile/Gustavo-Fernandes-19/publication/337746795_COSTS_ANALYSIS_BETWEEN_PREDICTIVE_AND_CORRECTIVE_MAINTENANCE_FOR_AN_AGRIBUSINESS_MACHINE/links/629e00c755273755ebd7c80c/COSTS-ANALYSIS-BETWEEN-PREDICTIVE-AND-CORRECTIVE-MAINTENANCE-FOR-AN-AGRIBUSINESS-MACHINE.pdf ](https://www.researchgate.net/profile/Gustavo-Fernandes-19/publication/337746795_COSTS_ANALYSIS_BETWEEN_PREDICTIVE_AND_CORRECTIVE_MAINTENANCE_FOR_AN_AGRIBUSINESS_MACHINE/links/629e00c755273755ebd7c80c/COSTS-ANALYSIS-BETWEEN-PREDICTIVE-AND-CORRECTIVE-MAINTENANCE-FOR-AN-AGRIBUSINESS-MACHINE.pdf)). 
+Obs: Estamos usando a proporção descrita no trabalho Kardec, A., Nascif, J., 2009. Manutenção-função estratégica. Qualitymark Editora Ltda, Tabela 1 (Tab1 https://www.researchgate.net/profile/Gustavo-Fernandes-19/publication/337746795_COSTS_ANALYSIS_BETWEEN_PREDICTIVE_AND_CORRECTIVE_MAINTENANCE_FOR_AN_AGRIBUSINESS_MACHINE/links/629e00c755273755ebd7c80c/COSTS-ANALYSIS-BETWEEN-PREDICTIVE-AND-CORRECTIVE-MAINTENANCE-FOR-AN-AGRIBUSINESS-MACHINE.pdf). 
 
 <img width="7206" height="249" alt="image" src="https://github.com/user-attachments/assets/8c4d11f4-8a13-4764-9d90-80585478669d" />
 
@@ -96,6 +96,7 @@ Melhor modelo. Com a aplicação desse modelo nos 20% dos dados de teste, chegam
 
 - **Modelo LightGBM:**
 <img width="700" height="117" alt="image" src="https://github.com/user-attachments/assets/9c0744b0-8c3b-4c36-8544-aa38e0a8db59" />
+
 Segundo modelo melhor avaliado. Apresenta uma economia de 30.49% em relação à manutenção corretiva.
 
 
@@ -104,12 +105,11 @@ Segundo modelo melhor avaliado. Apresenta uma economia de 30.49% em relação à
 
 Terceiro modelo melhor avaliado. Apresenta uma economia de 12.43% dos custos com relação à manutenção corretiva. 
 
-- **Modelo Regressão Logística:**
 
+- **Modelo Regressão Logística:**
 <img width="704" height="148" alt="image" src="https://github.com/user-attachments/assets/b9fb1c83-344f-441b-94e3-39520b13ec6d" />
 
-Esse modelo apresentou um desempenho ruim. A aplicação desse modelo, geraria um aumento no custo de 30.49%. 
-
-- 
+Esse modelo apresentou um desempenho ruim. A aplicação deste, geraria um aumento no custo de manutenção de 30.49%.
+ 
 ---
 
