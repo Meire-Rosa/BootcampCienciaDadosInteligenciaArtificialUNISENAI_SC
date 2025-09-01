@@ -82,8 +82,6 @@ Segundo o PO, o custo diário de manutenção corretiva de uma máquina, gira em
 
 Obs: Estamos usando a proporção descrita no trabalho Kardec, A., Nascif, J., 2009. Manutenção-função estratégica. Qualitymark Editora Ltda, Tabela 1 (Tab1 https://www.researchgate.net/profile/Gustavo-Fernandes-19/publication/337746795_COSTS_ANALYSIS_BETWEEN_PREDICTIVE_AND_CORRECTIVE_MAINTENANCE_FOR_AN_AGRIBUSINESS_MACHINE/links/629e00c755273755ebd7c80c/COSTS-ANALYSIS-BETWEEN-PREDICTIVE-AND-CORRECTIVE-MAINTENANCE-FOR-AN-AGRIBUSINESS-MACHINE.pdf). 
 
-<img width="7206" height="249" alt="image" src="https://github.com/user-attachments/assets/8c4d11f4-8a13-4764-9d90-80585478669d" />
-
 
 Usamos 80% dos dados para treino e 20% teste. Desse modo, como resultado dos 20% dados treinados, obtemos a seguinte análise.
 
